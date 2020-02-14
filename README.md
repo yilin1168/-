@@ -1,9 +1,10 @@
-# 打卡
+# 打卡：学习内容简化版笔记
 从线性回归，Softmax回归与分类模型、多层感知机、文本预处理到循环神经网络，有很多需要深入研究的地方
-用pytorch实现，首先官方torch说明文档 https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+用pytorch实现，首先有问题查找官方torch说明文档：
+https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 目前对tensorflow的了解还是有限，无法具体具体比较tensor和torch使用区别
 
-学习内容简化版笔记
+
 ## 线性回归
 1模型
 2损失函数
