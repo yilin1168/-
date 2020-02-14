@@ -37,10 +37,13 @@ https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 1分类问题  
 
 2交叉熵损失函数：  
-![image](https://github.com/yilin1168/learn_deeplearning/blob/master/images/交叉熵损失函数.png)
+![image](https://github.com/yilin1168/learn_deeplearning/blob/master/images/交叉熵损失函数.png)。
+
 3两种实现方法：  
 
 （之后会做成py文件放到库里）
 
 ## 多层感知机：MLP  
+![image](https://github.com/yilin1168/learn_deeplearning/blob/master/images/多层感知机表达公式.png)。
+
 
